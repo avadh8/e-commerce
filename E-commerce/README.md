@@ -49,7 +49,7 @@ Note:- This is a basic Project so we have not think about the security and we ha
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
+                                                                                                         <b>Avadh Bhesaniya, Harshil Joshi</b>
                                                                                                          
 
 <h1>This is Admin Page</h1>
